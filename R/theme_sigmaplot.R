@@ -1,6 +1,6 @@
 #' Sigmaplot styled theme for Ggplot2
-#'
-#' @param base_size
+#' @importFrom ggplot2 %+replace%
+#' @param base_size changes the base font size of text
 #'
 #' @return a sigmaplot styled ggplot2 object
 #' @export

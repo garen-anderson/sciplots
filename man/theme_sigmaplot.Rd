@@ -7,7 +7,7 @@
 theme_sigmaplot(base_size = 16)
 }
 \arguments{
-\item{base_size}{}
+\item{base_size}{changes the base font size of text}
 }
 \value{
 a sigmaplot styled ggplot2 object
